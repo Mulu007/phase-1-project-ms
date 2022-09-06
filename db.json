@@ -1,0 +1,61 @@
+{
+    "cars": [
+      {
+        "id": 1,
+        "name": "2022 DODGE CHALLENGER",
+        "image": "https://www.motortrend.com/uploads/2021/11/2022-Dodge-Challenger-TA-5-7-Hemi-9.jpg?fit=around%7C875:492.1875",
+        "description": "Dodge only builds three vehicles at this point, one of them being the big, burly Challenger two-door. Retro styling makes it one of the better-looking vehicles on sale, especially with the enormous tires and fender flares that come with the Challenger Widebody. Dodge introduced the Challenger way back in 2008 and gave the muscle car a major refresh for 2015; changes for 2022 are limited to a new alarm system. The Challenger competes with other American performance coupes like the Ford Mustang and Chevrolet Camaro as well as foreign competitors like the Nissan Z.",
+        "price": 58365
+      },
+      {
+        "id": 2,
+        "name": " 2022 BENTLEY BENTAYGA",
+        "image": "https://www.bentleymotors.com/content/dam/bentley/Master/Models/derivative-strategy-/bentayga-ewb/ewb-azure/selector-850x479-Rose-Gold-EWB-2.png/_jcr_content/renditions/original.image_file.850.478.file/selector-850x479-Rose-Gold-EWB-2.png                ",
+        "description": "The Bentley Bentayga made its debut for 2016 and is still fresh from its 2021 midcycle update. The ultra-luxe SUV receives some new features for 2022, and a new sporty Bentayga S trim level joins the lineup. The Bentayga competes with the Rolls-Royce Cullinan, Aston Martin DBX, Porsche Cayenne Turbo, and Land Rover Range Rover.",
+        "price": 210127
+      },
+      {
+        "id": 3,
+        "name": "2023 PORSHE MACAN",
+        "image": "https://www.motortrend.com/uploads/2022/02/2023-Porsche-Macan-T-3.jpg?fit=around%7C960:600",
+        "description": "Porsche made AWD standard on all base-engine 2022 Macans, and the same is true for the 2023 Macan T. Except on the new Macan T, the AWD system biases its power toward the rear axle to help keep you moving during enthusiastic driving. Trim-specific anti-roll bars and an active suspension system should help limit body roll, though we look forward to evaluating that for ourselves.",
+        "price": 63814
+      },
+      {
+        "id": 4,
+        "name": "2022 BMW Z4",
+        "image": "https://www.motortrend.com/uploads/sites/5/2021/08/2022-BMW-Z4-m40i-350.jpg?fit=around%7C960:600",
+        "description": "The BMW Z4's ancestry extends all the way back to 1989, when the Z1 inaugurated a line of roadsters that has endured for decades. Most recently, however, the Z4 shares its origins with the latest Supra, which was co-developed by Toyota and built on the same platform. The Z4 is more comfortable on a highway than a track, but its engines still offer plenty of charm.",
+        "price": 54856
+      },
+      {
+        "id": 5,
+        "name": "MERCEDES-BENZ CLA-CLASS",
+        "image": "https://www.motortrend.com/uploads/sites/5/2021/08/2022-Mercedes-Benz-CLA-250-4Mati-1.jpg?fit=around%7C960:600",
+        "description": "What was once a lackluster entry-level model is now an attractive and well-rounded coupe like sedan. Today, the Mercedes-Benz CLA-Class is positioned as a step up from its platform-sharing sibling, the A-Class. This baby Benz battles other luxury subcompacts including the Cadillac CT4, Audi A3, and BMW 2 Series Gran Coupe. The CLA carries over into the 2022 model year mostly unchanged. ",
+        "price": 55900
+      },
+      {
+        "id": 6,
+        "name": "2022 BENTLEY CONTINENTAL GT",
+        "image": "https://www.motortrend.com/uploads/2021/09/2022-Bentley-Continental-GT-Speed-Convertible-22.jpg?fit=around%7C960:600",
+        "description": "The Continental GT is the benchmark for touring cars. The current third-generation model made its debut for the 2019 model year, sharing its underpinnings with the Porsche Panamera. New for 2022 is the Continental GT Speed, honed for better performance than the standard model. Competitors include the Aston Martin DB11 and Ferrari Roma. ",
+        "price": 231000
+      },
+      {
+        "id": 7,
+        "name": "2022 ASTON MARTIN DB11",
+        "image": "https://www.motortrend.com/uploads/sites/5/2021/09/2022-Aston-Martin-DB11-front-in-motion-00.jpg?fit=around%7C763:476.875",
+        "description": "The DB11 continues Aston Martin's history of large and luxurious grand touring automobiles. It arrived for the 2017 model year, the latest in a lineage of DB-badged cars—those being the initials of former company owner David Brown. Offered with a V-8 or V-12 engine and choice of fixed or folding roof, the DB11 represents Aston Martin's modern approach to styling and refined performance. ",
+        "price": 205600
+      },
+      {
+        "id": 8,
+        "name": "2020 SUBARU ASCENT",
+        "image": "https://www.motortrend.com/uploads/sites/5/2020/02/2020-Volkswagen-Atlas-Cross-Sport-7.jpg?fit=around%7C763:476.875",
+        "description": "The Ascent is Subaru's latest attempt at a three-row SUV, with the last being its smaller B9 Tribeca, which ceased production in 2014. This is the largest Subaru ever, with seating for up to eight and competitive cargo capacity with all the seats folded down. The Ascent was new for the 2019 model year and is mostly unchanged this year. It's a full-size three-row SUV aimed square at segment heavyweights like the Toyota Highlander, Honda Pilot, Chevrolet Traverse and Ford Explorer as well as newcomers like our 2020 SUV of the Year, the Kia Telluride",
+        "price": 31995
+      }
+    ]
+  }
+  
