@@ -25,7 +25,7 @@ Open index.html file on your browser
 
 ## Website Peek
 
-![Website Screenshot](https://github.com/Mulu007/phase-1-project/blob/main/Screenshot%20from%202022-09-04%2020-35-18.png?raw=true)
+![Website Screenshot](https://github.com/Mulu007/phase-1-project-ms/blob/main/images/Screenshot%20from%202022-09-04%2020-35-18.png?raw=true)
 ![Website Screenshot](https://github.com/Mulu007/phase-1-project-ms/blob/main/images/Screenshot%20from%202022-09-02%2023-41-09.png?raw=true)
 
 ## LIVE SITE
